@@ -14,4 +14,4 @@ sMoChA is described in "[Online Hybrid CTC/Attention Architecture for End-to-End
 Monotonic Truncated Attention (MTA)
 ----
 
-MTA is described in this [manuscript](https://github.com/HaoranMiao/streaming-attention/blob/master/mta.pdf).
+MTA is briefly described in this [manuscript](https://github.com/HaoranMiao/streaming-attention/blob/master/mta.pdf). We have submitted this work to a journal and will release the source code of MTA soon. 
