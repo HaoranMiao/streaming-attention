@@ -9,7 +9,7 @@ Streaming-attention
 Stable Monotonic Chunkwise Attention (sMoChA)
 ----
 
-sMoChA is described in "Online Hybrid CTC/Attention Architecture for End-to-End Speech Recognition" by H Miao, G Gao, P Zhang, T Li, Y Yan, in Proceedings of Interspeech 2019.
+sMoChA is described in "[Online Hybrid CTC/Attention Architecture for End-to-End Speech Recognition](https://www.isca-speech.org/archive/Interspeech_2019/abstracts/2018.html)" by H Miao, G Gao, P Zhang, T Li, Y Yan, in Proceedings of Interspeech 2019.
 
 Monotonic Truncated Attention (MTA)
 ----
