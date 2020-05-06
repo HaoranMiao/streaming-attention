@@ -14,4 +14,4 @@ sMoChA is described in "[Online Hybrid CTC/Attention Architecture for End-to-End
 Monotonic Truncated Attention (MTA)
 ----
 
-MTA is briefly described in this [manuscript](https://github.com/HaoranMiao/streaming-attention/blob/master/mta.pdf). We have submitted this work to a journal and will release the source code of MTA soon. 
+MTA is described in "[Online Hybrid CTC/attention End-to-End Automatic Speech Recognition Architecture](https://ieeexplore.ieee.org/document/9072325)" by H Miao, G Gao, P Zhang, Y Yan, in IEEE/ACM Transactions on Audio, Speech and Language Processing. Also see [manuscript](https://github.com/HaoranMiao/streaming-attention/blob/master/mta.pdf) for brief description.
